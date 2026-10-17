@@ -1,11 +1,11 @@
-# Beyond Residence: Mobility-Driven PM2.5 Exposure Disparity in the DMV
+# Beyond Residence: Mobility-Driven PM2.5 Exposure Disparity in the Washington, D.C. Metropolitan Area
 
 ## Overview
 
 This project examines whether daily mobility patterns systematically increase PM2.5 
 exposure burden across the Washington DC metropolitan area (DMV), and which 
 populations bear the greatest burden. Rather than asking where people live relative 
-to pollution, this study asks where people go — computing a visitor-weighted 
+to pollution, this study asks where people go by computing a visitor-weighted 
 mobility-driven exposure differential per census block group (CBG).
 
 **Study area:** Washington DC, Montgomery County MD, Prince George's County MD, 
